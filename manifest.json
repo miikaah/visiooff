@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Visiooff",
   "version": "1.0",
-  "homepage_url": "https://hs.fi",
+  "homepage_url": "https://github.com/miikaah/visiooff",
   "content_scripts": [
     {
       "matches": ["https://*.hs.fi/*"],
