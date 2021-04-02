@@ -4,6 +4,9 @@
   "name": "Visiooff",
   "version": "1.0",
   "homepage_url": "https://github.com/miikaah/visiooff",
+  "icons": {
+    "48": "icon48x48.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://*.hs.fi/*"],
